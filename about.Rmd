@@ -1,0 +1,19 @@
+---
+title: "About me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+My given name is Wuraola Olawole, a MS Biostatistics candidate at Mailman school of public Health Columbia University. As a child, I grew up in Nigeria, west Africa and completed my secondary school (highschool) education at GEC comprehensive college in Alimosho local government area. After passing my SSCE (Senior school leaving certificate exam), I went on to work as an office administrator at a business center (the best equivalent of this I can think of in the United States would be Officemax). In this position, I wore many hats and worked in several capacities because it was a small startup. Depending on the tasks for the day, I could go from being a customer service representative to computer administrator to cashier. I was also responsible for opening the center, organizing xfiles and documents, creating and devising systems and structures that helped us maximize both ours and our customers experiences, and ensuring that everything was in proper working order before the arrival of the first customer. I worked at this job for another two years before I moved to the United States.
+
+## Educational History
+
+I started my academic career at Temple University in Philadelphia. I started out as a Bioengineering major and continued on. I had a series of stops and breaks along the way but I eventually completed my first degree at University of Dayton in Dayton Ohio. This I obtained in Education and Allied studies (my courses comprised of health science courses but my degree was granted in the name of my department). In the span of the time it took me to complete my degree, I worked as an undergraduate research assistant in a Chemical engineering lab, where we explored the possibility of reducing fouling in water filtering membranes by assessing the efficiency of smooth thin poly
+
+
+## Awards
+
+## Competencies and Skills
