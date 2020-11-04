@@ -1,0 +1,19 @@
+---
+title: "Gold's website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+<img src="grad_10.jpg" style="width:85%" alt="grad_10">
+
+## About website
+
+The purpose of this website is to provide a brief description of my personal and academic background. This website also provides information about my previous research, current research interests and future goals. In addition to these, my awards, competencies, and skillset are also included on this website.
+
+Please click on the link below to learn more about me!
+
+[About me](about.html)
+
+
+
