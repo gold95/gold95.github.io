@@ -9,6 +9,9 @@ navbar:
       href: Research.html  
     - text: "About me"
       href: about.html
+    - text: "Instacart Dashboard"
+      href: dashboard.html
+      
   right:
     - icon: fa-envelope fa-lg
       href: contact.html

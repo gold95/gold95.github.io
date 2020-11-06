@@ -11,6 +11,7 @@ output:
 library(flexdashboard)
 library(tidyverse)
 library(p8105.datasets)
+
 library(plotly)
 ```
 
@@ -24,7 +25,7 @@ instacart =
                 filter(
                         !is.na(department_id), 
                           order_number %in% 20:100, add_to_cart_order %in% 20:100, 
-                        days_since_prior_order %in% 1:7 )
+                        days_since_prior_order %in% 1:3 )
         
 ```
 
@@ -37,13 +38,14 @@ instacart %>%
   mutate(text_label = str_c("Department: ", department, "\nProduct: ", product_name)) %>% 
   plot_ly(
     x = ~order_hour_of_day, y = ~order_number, type = "scatter", mode = "markers",
-    color = ~product_name, text = ~text_label, alpha = 0.5)
+    color = ~department, text = ~text_label, alpha = 0.5)
+
 ```
 
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### A box plot showing how frequently different products from different departments are ordered on instacart
 
 ```{r}
 instacart %>%
@@ -51,11 +53,12 @@ instacart %>%
   plot_ly(y = ~days_since_prior_order, color = ~department, type = "box", colors = "viridis")
 ```
 
-### Chart C
+### A frequency plot of different departments
 
 ```{r}
 instacart %>%
   count(department) %>%
   mutate(department = fct_reorder(department, n)) %>% 
   plot_ly(x = ~department, y = ~n, color = ~department, type = "bar", colors = "viridis")
+
 ```
