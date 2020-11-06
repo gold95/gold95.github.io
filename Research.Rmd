@@ -5,12 +5,54 @@ output:
     toc: true
     toc_float: true
 ---
+As a student during my undergraduate degree, I worked in several roles that have all cumulated together to provide me with invaluable experiences. Listed below are a few of them.
 
+### Walgreens, Dayton, OH
+
+Designated Hitter 2019 – current
+
+•	Worked in Pharmacy to fill prescriptions and provide customer service to patients. Also did store work.
+
+### University of Nebraska- Lincoln, Lincoln, NE
+
+Student worker (Printing services) 2017 - 2018
+
+•	Carried on various printing projects and performed some administrative functions
+
+•	Liaised with faculty members, university staff and the public to ensure accuracy of order and maintain timely service
+
+### Tennessee technological University
+
+Multicultural Center 2016 – 2017
+
+•	Served as mentor and tutor to students from diverse ethnic and racial backgrounds
+
+Counselor – Engineering Summer Camp 2017
+
+•	Worked with a group of other counselors to engage and introduce a group of 8th graders to the STEM field
+
+•	Devised programs and activities to demonstrate common engineering principles
+
+Planning Committee African student association
+
+### Camden County College, Blackwood, NJ
+
+Admissions/ Enrollment Front desk 2016
+
+•	Carried out various administrative duties as needed
 
 ## Research {.tabset .tabfade}
 
 ### Previous Research
+In the span of the time it took me to complete my degree, I worked as an undergraduate research assistant in a Chemical engineering lab at Tennessee Tech, where we explored the possibility of reducing fouling in water filtering membranes by assessing the efficiency of smooth polyamide thin film composite membrane.
+
+•	Researched on membrane technology used in reverse osmosis and forward osmosis 
+
+•	Studied the behavior of polyamide thin film composite membrane surfaces and how it could be characterized, checked for     membrane areas with smoother surface as a solution to reduce fouling. 
+
+•	Worked with the lab team on building and installing a Bio-sand filter as part of an outreach program at Monterey High School TN
 
 ### Current Research interest
 
+My current research interest spans the sphere of infectious disease as it relates to global health.
 
